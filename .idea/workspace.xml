@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit02">
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EntradaDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EscopoDeVariaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDeControleSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturasDeControleIfElseIfEElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresDeComparacaoEIgualdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/PromocaoAritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/TrabalhandoComStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/IncrementoDecremento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadorTernario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/ConversaoTiposPrimitivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/ConversaoTiposPrimitivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/NomeandoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/NomeandoVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAritmeticos2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAritmeticos2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresAtribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/PalavrasReservadas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/PalavrasReservadas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/SequenciaDeEscape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/SequenciaDeEscape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/TrabalhandoComVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/TrabalhandoComVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDeControleSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDeControleSwitch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +47,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperadoresLogicos">
-    <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EntradaDeDados" />
+  <component name="RunManager" selected="Application.ClasulasBreakContinue2">
+    <configuration name="ClasulasBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.ClasulasBreakContinue" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresDeComparacaoEIgualdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.OperadoresDeComparacaoEIgualdade" />
+    <configuration name="ClasulasBreakContinue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.ClasulasBreakContinue2" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.OperadoresLogicos" />
+    <configuration name="EstruturaDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaDoWhile" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromocaoAritmetica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.PromocaoAritmetica" />
+    <configuration name="EstruturaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaFor" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrabalhandoComStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.TrabalhandoComStrings" />
+    <configuration name="EstruturaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaWhile" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.OperadoresDeComparacaoEIgualdade" />
-        <item itemvalue="Application.EntradaDeDados" />
-        <item itemvalue="Application.TrabalhandoComStrings" />
-        <item itemvalue="Application.PromocaoAritmetica" />
+        <item itemvalue="Application.ClasulasBreakContinue2" />
+        <item itemvalue="Application.ClasulasBreakContinue" />
+        <item itemvalue="Application.EstruturaFor" />
+        <item itemvalue="Application.EstruturaDoWhile" />
+        <item itemvalue="Application.EstruturaWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658460193777</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit02">
+      <created>1658871579629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658871579629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +154,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Commit02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit02" />
   </component>
 </project>
