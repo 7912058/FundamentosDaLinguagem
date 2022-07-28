@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit02">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/IncrementoDecremento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadorTernario.java" afterDir="false" />
+    <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalProprietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Proprietario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDeControleSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/EstruturaDeControleSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ClasulasBreakContinue2">
+  <component name="RunManager" selected="Application.PrincipalProprietario">
     <configuration name="ClasulasBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.ClasulasBreakContinue" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -74,19 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturaDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaDoWhile" />
-      <module name="JavaEOrientacaoAObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FundamentosDaLinguagem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EstruturaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaFor" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -100,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstruturaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FundamentosDaLinguagem.EstruturaWhile" />
+    <configuration name="OrientacaoObjetosPrt01.PrincipalCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalCarro" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FundamentosDaLinguagem.*" />
+          <option name="PATTERN" value="OrientacaoObjetosPrt01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalProprietario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalProprietario" />
+      <module name="JavaEOrientacaoAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientacaoObjetosPrt01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalProprietario" />
+        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalCarro" />
         <item itemvalue="Application.ClasulasBreakContinue2" />
         <item itemvalue="Application.ClasulasBreakContinue" />
         <item itemvalue="Application.EstruturaFor" />
-        <item itemvalue="Application.EstruturaDoWhile" />
-        <item itemvalue="Application.EstruturaWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658871579629</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1658898931078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658898931078</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit02" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
