@@ -10,6 +10,8 @@ public class Carro {
         Proprietario dono;
 
         void ligar () {
+                if (modelo != null) {
+                }
                 System.out.println("Ligando o carro: " + modelo);
         }
 }
