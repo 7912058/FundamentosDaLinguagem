@@ -17,6 +17,7 @@ public class OperadoresLogicos {
 
         System.out.println("Digite (1) para 'Masculino'");
         System.out.println("Digite (2) para 'Feminino'");
+
         char sexo = entrada.nextShort() == 1 ? 'M' : 'F';
 
         double imc = (peso / (altura * altura));
