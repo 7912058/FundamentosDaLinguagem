@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/FolhaPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/IMC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalFolhaPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalPaciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalCarroPrt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalCarroPrt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
