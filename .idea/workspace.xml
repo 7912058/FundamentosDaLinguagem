@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrecoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/FolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/IMC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalFolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalPaciente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FundamentosDaLinguagem/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalCarroPrt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/PrincipalCarroPrt2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +51,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OrientacaoObjetosPrt01.PrincipalProduto">
-    <configuration name="OrientacaoObjetosPrt01.PrincipalCarroPrt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PrincipalFolhaPagamento">
+    <configuration name="OrientacaoObjetosPrt01.PrincipalCarro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalCarro" />
+      <module name="JavaEOrientacaoAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OrientacaoObjetosPrt01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalCarroPrt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalCarroPrt2" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
@@ -60,7 +78,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrientacaoObjetosPrt01.PrincipalFolhaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrincipalFolhaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalFolhaPagamento" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
@@ -73,7 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrientacaoObjetosPrt01.PrincipalPaciente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrincipalPaciente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalPaciente" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
@@ -86,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrientacaoObjetosPrt01.PrincipalProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalProduto" />
-      <module name="JavaEOrientacaoAObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientacaoObjetosPrt01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrincipalPreco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalPreco" />
+    <configuration name="PrincipalProprietario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalProprietario" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalProduto" />
-        <item itemvalue="Application.PrincipalPreco" />
-        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalFolhaPagamento" />
-        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalCarroPrt2" />
-        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalPaciente" />
+        <item itemvalue="Application.PrincipalFolhaPagamento" />
+        <item itemvalue="Application.PrincipalCarroPrt2" />
+        <item itemvalue="Application.PrincipalPaciente" />
+        <item itemvalue="Application.OrientacaoObjetosPrt01.PrincipalCarro" />
+        <item itemvalue="Application.PrincipalProprietario" />
       </list>
     </recent_temporary>
   </component>
@@ -166,14 +171,7 @@
       <option name="project" value="LOCAL" />
       <updated>1659239391928</updated>
     </task>
-    <task id="LOCAL-00006" summary="Commit">
-      <created>1659412590455</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1659412590456</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
