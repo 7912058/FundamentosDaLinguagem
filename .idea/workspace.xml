@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/WrappersBoxingArrays/Boxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrappersBoxingArrays/TrabalhandoComArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrappersBoxingArrays/TrabalhandoComArraysPrt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrappersBoxingArrays/WrappersDoJavaLang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt02/ExemploThis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacaoObjetosPrt01/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrappersBoxingArrays/TrabalhandoComArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrappersBoxingArrays/TrabalhandoComArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2CHWrrYwAwxyNLY3CNFDQO7SaDa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,7 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TrabalhandoComArrays">
+  <component name="RunManager" selected="Application.ExemploThis">
     <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WrappersBoxingArrays.Boxing" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrincipalFolhaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt01.PrincipalFolhaPagamento" />
+    <configuration name="ExemploThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.ExemploThis" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OrientacaoObjetosPrt01.*" />
+          <option name="PATTERN" value="OrientacaoObjetosPrt02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploThis" />
         <item itemvalue="Application.TrabalhandoComArrays" />
         <item itemvalue="Application.TrabalhandoComArraysPrt02" />
         <item itemvalue="Application.Boxing" />
         <item itemvalue="Application.WrappersDoJavaLang" />
-        <item itemvalue="Application.PrincipalFolhaPagamento" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659506782410</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit">
+      <created>1661397771248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661397771248</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

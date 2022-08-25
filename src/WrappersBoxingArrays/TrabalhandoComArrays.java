@@ -2,6 +2,9 @@ package WrappersBoxingArrays;
 
 public class TrabalhandoComArrays {
 
+
+    private static int i;
+
     public static void main(String args) {
         int [] notas = new int[4];
         notas[0] = 10;
@@ -12,9 +15,9 @@ public class TrabalhandoComArrays {
         System.out.println("Notas do primeiro Aluno: " + notas[0]);
 
         System.out.println("Tamanho do array: " + notas.length);
-        for (i = 0 ; i < notas.length ; i++);{
-            System.out.println("Posicao[" + i + "]=" + notas[i]);;
+        
+        for ( i = 0 ; i < notas.length ; i++){
+            System.out.println("Posicao[" + i + "]=" + notas[i]);
         }
-
     }
 }
