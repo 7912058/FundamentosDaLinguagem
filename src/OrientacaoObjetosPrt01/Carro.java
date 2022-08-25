@@ -1,11 +1,12 @@
 package OrientacaoObjetosPrt01;
 
 public class Carro {
-        String fabricante;
-        String modelo;
-        String cor;
-        int anoDeFabricacao;
-        boolean biCombustivel;
+        public Integer anoDeFabricacao;
+        public String fabricante;
+        public String modelo;
+        public String cor;
+
+        public Boolean biCombustivel;
 
         Proprietario dono;
 
