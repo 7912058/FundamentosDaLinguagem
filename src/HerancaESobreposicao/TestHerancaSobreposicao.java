@@ -6,11 +6,11 @@ public class TestHerancaSobreposicao {
         Fornecedor imobiliaria = new Fornecedor();
         imobiliaria.setNome("Casa & Cia Negócios Imobiliários");
         Fornecedor mercado = new Fornecedor();
-        mercado.setNome("Mercado do João");
+        mercado.setNome("Mercado do Joao");
 
         // instanciando clientes
         Cliente atacadista = new Cliente();
-        atacadista.setNome("Triângulo Quadrado Atacadista");
+        atacadista.setNome("Triangulo Quadrado Atacadista");
         Cliente telecom = new Cliente();
         telecom.setNome("FoneNet Telecomunicações");
 
@@ -21,16 +21,16 @@ public class TestHerancaSobreposicao {
         contaPagar1.setDataVencimento("10/05/2012");
         contaPagar1.setFornecedor(imobiliaria);
 
-        ContaPagar contaPagar2 = new ContaPagar(mercado, "Compras do mês", 390d, "19/05/2012");
+        ContaPagar contaPagar2 = new ContaPagar(mercado, "Compras do mes", 390d, "19/05/2012");
 
         // instanciando contas a receber
         ContaReceber contaReceber1 = new ContaReceber();
-        contaReceber1.setDescricao("Desenvolvimento de projeto de logística em Java");
+        contaReceber1.setDescricao("Desenvolvimento de projeto de logistica em Java");
         contaReceber1.setValor(89500d);
         contaReceber1.setDataVencimento("23/05/2012");
         contaReceber1.setCliente(atacadista);
 
-        ContaReceber contaReceber2 = new ContaReceber(telecom, "Manutenção em sistema de conta online",
+        ContaReceber contaReceber2 = new ContaReceber(telecom, "Manutencao em sistema de conta online",
                 53200d, "13/05/2012");
 
         // pagamento e cancelamento de contas a pagar

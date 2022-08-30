@@ -1,5 +1,9 @@
 package HerancaESobreposicao;
 
+import java.util.Objects;
+
+import static HerancaESobreposicao.SituacaoConta.*;
+
 public class ContaReceber extends Conta {
     private Cliente cliente;
 
@@ -15,18 +19,18 @@ public class ContaReceber extends Conta {
 
     public void cancelar() {
         if (this.getValor() > 50000d) {
-            System.out.println("Essa conta a receber não pode ser cancelada. " +
-                    "É muito dinheiro para deixar de receber: " + this.getDescricao());
+            System.out.println("Essa conta a receber nao pode ser cancelada. " +
+                    "E muito dinheiro para deixar de receber: " + this.getDescricao());
         } else {
             super.cancelar();
         }
     }
 
     public void receber() {
-        if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
-            System.out.println("Não pode receber uma conta que já está paga: "
+        if (Objects.equals(PAGA, this.getSituacaoConta())) {
+            System.out.println("Nao pode receber uma conta que ja esta paga: "
                     + this.getDescricao() + ".");
-        } else if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {
+        } else if (CANCELADA.equals(this.getSituacaoConta())) {
             System.out.println("Nao pode receber uma conta que esta cancelada: "
                     + this.getDescricao() + ".");
         } else {
@@ -35,7 +39,7 @@ public class ContaReceber extends Conta {
                     + " do cliente " + this.getCliente().getNome() + ".");
 
             // altera situação da conta para PAGA
-            this.situacaoConta = SituacaoConta.PAGA;
+            this.situacaoConta = PAGA;
         }
     }
 

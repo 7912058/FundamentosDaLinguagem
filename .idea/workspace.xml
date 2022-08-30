@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commits">
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/SituacaoConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/CadastroPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/TesteCadastro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661829224360</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commits">
+      <created>1661886460439</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661886460439</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +275,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
       <default-breakpoints>

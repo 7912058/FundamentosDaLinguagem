@@ -1,5 +1,7 @@
 package HerancaESobreposicao;
 
+import java.util.Objects;
+
 public class ContaPagar extends Conta {
     private Fornecedor fornecedor;
 
@@ -14,7 +16,7 @@ public class ContaPagar extends Conta {
     }
 
     public void pagar() {
-        if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
+        if (Objects.equals(SituacaoConta.PAGA, this.getSituacaoConta())) {
             System.out.println("Nao pode pagar uma conta que ja esta paga: "
                     + this.getDescricao() + ".");
         } else if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {

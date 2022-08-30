@@ -1,5 +1,9 @@
 package HerancaESobreposicao;
 
+import java.util.Objects;
+
+import static HerancaESobreposicao.SituacaoConta.*;
+
 public class Conta {
     private String descricao;
     private Double valor;
@@ -7,21 +11,21 @@ public class Conta {
     protected SituacaoConta situacaoConta;
 
     public Conta() {
-        this.situacaoConta = SituacaoConta.PENDENTE;
+        this.situacaoConta = PENDENTE;
     }
 
     public void cancelar() {
-        if (SituacaoConta.PAGA.equals(this.getSituacaoConta())) {
-            System.out.println("Não pode cancelar uma conta que já foi paga: "
+        if (Objects.equals(PAGA, this.getSituacaoConta())) {
+            System.out.println("Nao pode cancelar uma conta que ja foi paga: "
                     + this.getDescricao() + ".");
-        } else if (SituacaoConta.CANCELADA.equals(this.getSituacaoConta())) {
-            System.out.println("Não pode cancelar uma conta que já foi cancelada: "
+        } else if (CANCELADA.equals(this.getSituacaoConta())) {
+            System.out.println("Nao pode cancelar uma conta que ja foi cancelada: "
                     + this.getDescricao() + ".");
         } else {
             System.out.println("Cancelando conta " + this.getDescricao() + ".");
 
             // altera situação da conta para CANCELADA
-            this.situacaoConta = SituacaoConta.CANCELADA;
+            this.situacaoConta = CANCELADA;
         }
     }
 
