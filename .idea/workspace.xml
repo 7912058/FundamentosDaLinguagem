@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commits">
-      <change afterPath="$PROJECT_DIR$/src/HerancaEModificadorProtected/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaEModificadorProtected/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaEModificadorProtected/Tecnico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaEModificadorProtected/TestHeranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/ProdutoPerecivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/TesteSobreposicao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestHeranca">
+  <component name="RunManager" selected="Application.TesteSobreposicao">
     <configuration name="Construtores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.Construtores" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -118,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrabalhandoComArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WrappersBoxingArrays.TrabalhandoComArrays" />
+    <configuration name="TesteSobreposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sobreposicao.TesteSobreposicao" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WrappersBoxingArrays.*" />
+          <option name="PATTERN" value="Sobreposicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSobreposicao" />
         <item itemvalue="Application.TestHeranca" />
         <item itemvalue="Application.EncapsulamentoEModificadoresPublicPrivate" />
         <item itemvalue="Application.Construtores" />
         <item itemvalue="Application.ExemploThis" />
-        <item itemvalue="Application.TrabalhandoComArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661558817411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commits">
+      <created>1661560161775</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661560161775</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
