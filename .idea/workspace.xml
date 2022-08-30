@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commits">
-      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/ProdutoPerecivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobreposicao/TesteSobreposicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/SituacaoConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/CadastroPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sobrecarga/TesteCadastro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,35 +59,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TesteSobreposicao">
-    <configuration name="Construtores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.Construtores" />
-      <module name="JavaEOrientacaoAObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientacaoObjetosPrt02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestHerancaSobreposicao">
     <configuration name="EncapsulamentoEModificadoresPublicPrivate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.EncapsulamentoEModificadoresPublicPrivate" />
-      <module name="JavaEOrientacaoAObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientacaoObjetosPrt02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.ExemploThis" />
       <module name="JavaEOrientacaoAObjetos" />
       <extension name="coverage">
         <pattern>
@@ -117,6 +99,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestHerancaSobreposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HerancaESobreposicao.TestHerancaSobreposicao" />
+      <module name="JavaEOrientacaoAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HerancaESobreposicao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sobrecarga.TesteCadastro" />
+      <module name="JavaEOrientacaoAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sobrecarga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteSobreposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sobreposicao.TesteSobreposicao" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -132,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHerancaSobreposicao" />
+        <item itemvalue="Application.TesteCadastro" />
         <item itemvalue="Application.TesteSobreposicao" />
         <item itemvalue="Application.TestHeranca" />
         <item itemvalue="Application.EncapsulamentoEModificadoresPublicPrivate" />
-        <item itemvalue="Application.Construtores" />
-        <item itemvalue="Application.ExemploThis" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661560161775</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Commits">
+      <created>1661829224359</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661829224360</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
