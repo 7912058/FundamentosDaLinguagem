@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="470f6f9d-f030-40e3-b751-73dd6632271d" name="Changes" comment="Commits">
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismo/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismo/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismo/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismo/TestPolimorfismo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaPagar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/ContaReceber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HerancaESobreposicao/TestHerancaSobreposicao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestHerancaSobreposicao">
-    <configuration name="EncapsulamentoEModificadoresPublicPrivate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.EncapsulamentoEModificadoresPublicPrivate" />
-      <module name="JavaEOrientacaoAObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OrientacaoObjetosPrt02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestPolimorfismo">
     <configuration name="JavaBean" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientacaoObjetosPrt02.JavaBean" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -105,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPolimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polimorfismo.TestPolimorfismo" />
+      <module name="JavaEOrientacaoAObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polimorfismo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sobrecarga.TesteCadastro" />
       <module name="JavaEOrientacaoAObjetos" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPolimorfismo" />
         <item itemvalue="Application.TestHerancaSobreposicao" />
         <item itemvalue="Application.TesteCadastro" />
         <item itemvalue="Application.TesteSobreposicao" />
         <item itemvalue="Application.TestHeranca" />
-        <item itemvalue="Application.EncapsulamentoEModificadoresPublicPrivate" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661886460439</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commits">
+      <created>1661887341946</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661887341946</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
